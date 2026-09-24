@@ -1,6 +1,6 @@
 <footer
     
-    <p> Todos los derechos reservados @aAPO-2026 </p>
+    <p> Todos los derechos reservados  </p>
 
 
 <footer
